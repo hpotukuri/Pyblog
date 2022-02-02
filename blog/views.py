@@ -15,6 +15,3 @@ def about(request):
     return render(request, 'blog\\about.html')
 
 
-    
-def Test(request):
-    pass
